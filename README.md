@@ -8,7 +8,7 @@ This application allows you to send and receive cryptos mainly **Ethereums**, yo
 
 ## Screenshots
 
-![alt text](./screens/Home page.png)
+![alt text](./screens/Home_page.png)
 ![alt text](./screens/Conecting.png)
-![alt text](./screens/Connected card.png)
+![alt text](./screens/Connected_card.png)
 ![alt text](./screens/Transactions.png)
